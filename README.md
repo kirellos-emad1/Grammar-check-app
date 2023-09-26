@@ -14,12 +14,6 @@ React.js,
 Css,
 Tailwind Css,
 
-#### Video Demo:  < https://youtu.be/j3Rj5yHEThU >
-
-#### Description:
-Making Authentication using Python Flask framework and Sqlite3 to allow user to sign in and use the app.
-After Signing in the user be able to access the api of checking the grammar and simple fix the grammar problem and spelling too.
-
 ### How to install
 #### Back-End
 First ensure that you have python install by open the terminal then ``` python --version ```.
