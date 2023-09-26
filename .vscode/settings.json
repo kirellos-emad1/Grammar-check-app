@@ -1,0 +1,17 @@
+{
+    "cSpell.words": [
+        "Aamv",
+        "cachecontrol",
+        "dotenv",
+        "firstname",
+        "fontawesome",
+        "fortawesome",
+        "sqlalchemy",
+        "textgears",
+        "userinfo"
+    ],
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python"
+    },
+    "python.formatting.provider": "none"
+}
